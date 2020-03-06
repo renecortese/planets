@@ -1,3 +1,4 @@
 *.dat
+!final.dat #except thiks file from ignored
 results/
 
